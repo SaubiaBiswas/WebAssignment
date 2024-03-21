@@ -1,0 +1,63 @@
+#no_two_div{
+    margin: 50px 125px 50px 125px;
+    background-image: url("trophy.png");
+}
+
+#no_one_div{
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: inherit;
+}
+
+ .topnav div {
+  float: left;    
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.active_span {
+   color: blue; 
+   text-decoration: underline !important;
+    padding-bottom: 2px !important;
+}
+
+#search {
+    margin-left:  400px !important; 
+    padding-right: 120px !important;
+    background-color: #f2f2f2 !important;
+    border: 2px;
+    border-radius: 15px;
+}
+
+#search label {
+    font-weight: 200 !important;
+}
+
+.favorite {
+    padding-left: 550px;
+    padding-top: 175px;
+    padding-bottom: 175px;
+}
+
+.fav_2023 {
+    font-weight: bold;
+}
