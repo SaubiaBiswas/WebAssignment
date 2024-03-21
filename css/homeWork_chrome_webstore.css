@@ -1,6 +1,6 @@
 #no_two_div{
     margin: 50px 100px 50px 100px;
-    background-image: url("trophy_updated.png");
+    background-image: url('../../WebAssignment/images/trophy_updated.png');
     display: flex;
     background-repeat: no-repeat;
 }
